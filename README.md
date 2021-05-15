@@ -10,7 +10,7 @@
 </p>  
 
 
-> Il mio sito Web [Valerio boi](https://www.valerioboi.com/). 
+> Il mio sito Web [Valerio boi](https://www.valerioboi.com/) :octopus:. 
 
 
 
