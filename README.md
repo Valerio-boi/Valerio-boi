@@ -9,8 +9,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Valerio-boi&show_icons=true">
 </p>  
 
-<p>
+
 > Il mio sito Web [Valerio boi](www.valerioboi.com). 
-</p>
+
 
 
