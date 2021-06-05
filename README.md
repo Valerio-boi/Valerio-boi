@@ -7,9 +7,9 @@
 <a href="https://github.com/Valerio-boi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valerio-boi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Valerio-boi&show_icons=true">
-</p>  
+<a href="https://github.com/Valerio-boi">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Valerio-boi&show_icons=true">
+</a>
 
 
 > Il mio sito Web [Valerio boi](https://www.valerioboi.com/) :octopus:. 
